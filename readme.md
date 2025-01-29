@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm lotus647</h1>
 <h3 align="center">A teenager who messes around with AI and has no idea what he's doing</h3>
 
-- 🔭 I’m currently working on neural networks through [3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=cv_MwedOn4qqCCzK)
+- 🔭 I’m currently working on neural networks through 3Blue1Brown and Andrej Karpathy
 
 - 🌱 I’m currently learning **about AI**
 
